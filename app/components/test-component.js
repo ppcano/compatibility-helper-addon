@@ -1,0 +1,1 @@
+export { default } from 'compatibility-helper-addon/components/test-component';
